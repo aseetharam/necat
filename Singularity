@@ -25,6 +25,7 @@ From: ubuntu:16.04
    apt-get install -y libcurl4-gnutls-dev libxml2-dev libssl-dev libbz2-dev
    apt-get install -y gfortran
    apt-get install -y perl python3 python3-pip 
+
 # instll necat
    cd opt/
    git clone https://github.com/xiaochuanle/NECAT.git
