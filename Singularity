@@ -13,9 +13,9 @@ From: ubuntu:16.04
    This is a container for the NECAT
 
 %test
-   which necat.pl
-   which pigz
-   which ctgcns
+#   which necat.pl
+#   which pigz
+#   which ctgcns
 
 %post
    apt-get update
